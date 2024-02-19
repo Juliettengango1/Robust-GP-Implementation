@@ -1,8 +1,8 @@
 # README
-The python scripts presented here produce the output seen in "A Robust Approach to Gaussian Process Implementation."
+The python scripts presented here produce the output seen in "A Robust Approach to Gaussian Process Implementation."\n
 The python scripts are setup in 2 sub-folders:
-1 - data
-2 - py_functions
+- data
+- py_functions
 
 Folder Descriptions:
 
